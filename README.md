@@ -19,12 +19,12 @@ I like
 <img align="left" alt="Rabbitmq" width="120px" src="https://rabbitmq.com/img/logo-rabbitmq.svg" />
 <img align="left" alt="Hibernate" width="120px" src="https://hibernate.org/images/hibernate-logo.svg" />
 <img align="left" alt="Docker" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<br />
-<br />
-<br />
-<br />
-<br />
 <img align="left" alt="Telegram" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
+<br />
+<br />
+<br />
+<br />
+<br />
 <img align="left" alt="Postman" width="70px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
 <img align="left" alt="Maven" width="120px" src="https://maven.apache.org/images/maven-logo-black-on-white.png" />
 <img align="left" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
