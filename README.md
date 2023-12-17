@@ -28,7 +28,7 @@ I like
 <img align="left" alt="Git" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Postman" width="70px" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
 <img align="left" alt="Maven" width="120px" src="https://maven.apache.org/images/maven-logo-black-on-white.png" />
-<img align="left" alt="Swagger" width="100px" src="https://www.developpez.net/forums/attachment.php?attachmentid=331436&d=1512059512" />
+<img align="left" alt="Swagger" width="100px" src="https://www.developpez.net/forums/attachment.php?attachmentid=331436&d=1512059512](https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/bc604e8d-f457-4142-8745-4e3d8e6b6f9d)" />
 <img align="left" alt="Linux" width="70px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />
 <img align="left" alt="Windows" width="70px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
 <br />
@@ -38,6 +38,7 @@ I like
 ---
 ### My projects:
 [<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/d900207b-4afb-47a6-ba7e-726601f447fd" />][Sofa]
+[<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/b94ed3e6-d877-427c-90c6-524c55c186f9" />][Tochka]
 <br />
 <br />
 <br />
@@ -51,4 +52,6 @@ I like
 [Telegram]: https://t.me/GirichevVasiliy
 [HH]: https://tyumen.hh.ru/resume/97927d31ff0b5cb5380039ed1f466543367038
 [Sofa]: https://t.me/SOFa_invest_bot
+[Tochka]: https://t.me/Tochka_delivery_bot
+
 
