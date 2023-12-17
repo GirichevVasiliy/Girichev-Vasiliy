@@ -47,7 +47,7 @@ I like
 
 ### You can contact me:
 [<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
-[<img align="left" alt="HH" width="30px" src="https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH" />][HH]
+[<img align="left" alt="HH" width="30px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/7d6cf8bd-7e3e-4ddc-9351-ae515c7c825f" />][HH]
 
 [Telegram]: https://t.me/GirichevVasiliy
 [HH]: https://tyumen.hh.ru/resume/97927d31ff0b5cb5380039ed1f466543367038
