@@ -36,6 +36,13 @@ I like
 <br />
 
 ---
+### My projects:
+[<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/d900207b-4afb-47a6-ba7e-726601f447fd" />][Sofa]
+<br />
+<br />
+<br />
+
+---
 
 ### You can contact me:
 [<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
@@ -43,3 +50,5 @@ I like
 
 [Telegram]: https://t.me/GirichevVasiliy
 [HH]: https://tyumen.hh.ru/resume/97927d31ff0b5cb5380039ed1f466543367038
+[Sofa]: https://t.me/SOFa_invest_bot
+
