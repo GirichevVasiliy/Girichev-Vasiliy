@@ -52,13 +52,13 @@ I like
 
 ---
 ### Socials:
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]([https://vk.com/alexeyshpavda](https://vk.com/v.girichev)https://vk.com/v.girichev)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/v.girichev)
 
 [Telegram]: https://t.me/GirichevVasiliy
 [HH]: https://tyumen.hh.ru/resume/97927d31ff0b5cb5380039ed1f466543367038
 [Sofa]: https://t.me/SOFa_invest_bot
 [Tochka]: https://t.me/Tochka_delivery_bot
-
+[VK]: https://vk.com/v.girichev
 
 
 
