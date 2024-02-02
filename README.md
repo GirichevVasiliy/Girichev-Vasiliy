@@ -48,10 +48,17 @@ I like
 ### You can contact me:
 [<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][Telegram]
 [<img align="left" alt="HH" width="30px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/7d6cf8bd-7e3e-4ddc-9351-ae515c7c825f" />][HH]
+<br />
+
+---
+### Socials:
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]([https://vk.com/alexeyshpavda](https://vk.com/v.girichev)https://vk.com/v.girichev)
 
 [Telegram]: https://t.me/GirichevVasiliy
 [HH]: https://tyumen.hh.ru/resume/97927d31ff0b5cb5380039ed1f466543367038
 [Sofa]: https://t.me/SOFa_invest_bot
 [Tochka]: https://t.me/Tochka_delivery_bot
+
+
 
 
