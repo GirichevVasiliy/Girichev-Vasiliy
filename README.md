@@ -38,7 +38,7 @@ I like
 ---
 ### My projects:
 [<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/d900207b-4afb-47a6-ba7e-726601f447fd" />][Sofa]
-[<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/b94ed3e6-d877-427c-90c6-524c55c186f9" />][EnglishPhraseOfTheDayBot]
+[<img align="left" alt="Telegram" width="50px" src="https://github.com/user-attachments/assets/e70e3437-609c-4c21-ae90-e30943e28bb0" />][EnglishPhraseOfTheDayBot]
 <br />
 <br />
 <br />
