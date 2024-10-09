@@ -38,7 +38,7 @@ I like
 ---
 ### My projects:
 [<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/d900207b-4afb-47a6-ba7e-726601f447fd" />][Sofa]
-[<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/b94ed3e6-d877-427c-90c6-524c55c186f9" />][Tochka]
+[<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/b94ed3e6-d877-427c-90c6-524c55c186f9" />][EnglishPhraseOfTheDayBot]
 <br />
 <br />
 <br />
@@ -57,7 +57,7 @@ I like
 [Telegram]: https://t.me/GirichevVasiliy
 [HH]: https://tyumen.hh.ru/resume/97927d31ff0b5cb5380039ed1f466543367038
 [Sofa]: https://t.me/SOFa_invest_bot
-[Tochka]: https://t.me/Tochka_delivery_bot
+[EnglishPhraseOfTheDayBot]: https://t.me/EnglishPhraseOfTheDayBot
 [VK]: https://vk.com/v.girichev
 
 
